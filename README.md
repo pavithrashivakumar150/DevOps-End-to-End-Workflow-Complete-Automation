@@ -26,7 +26,7 @@ This repository contains a project where I’ve managed to create a DevOps envir
 - Git & GitHub 
 - Jenkins 
 - Maven
-- NGINX 
+- nginx 
 - SonarQube
 - Docker 
 - Jfrog Artifactory 
